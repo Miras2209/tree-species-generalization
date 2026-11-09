@@ -1,0 +1,6 @@
+split,images,observations,species,class_ratio
+test_id,646,450,15,1.0
+test_leafoff,128,103,4,5.5
+test_leafon,2012,1512,12,18.8
+train,3097,2098,15,1.0
+val,664,452,15,1.0

@@ -1,0 +1,10 @@
+set,species,observations
+test_leafon,Fraxinus pennsylvanica,12
+test_leafon,Prunus virginiana,2
+test_leafoff,Larix sibirica,1
+test_leafoff,Prunus padus,1
+test_leafoff,Sorbus aucuparia,1
+test_leafoff,Populus nigra,4
+test_leafoff,Populus tremula,2
+test_leafoff,Salix alba,2
+test_leafoff,Acer platanoides,1

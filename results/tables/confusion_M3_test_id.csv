@@ -1,0 +1,16 @@
+,Betula pendula,Fraxinus pennsylvanica,Larix sibirica,Picea pungens,Pinus sylvestris,Prunus padus,Prunus virginiana,Sorbus aucuparia,Populus nigra,Populus tremula,Salix alba,Acer negundo,Acer platanoides,Ulmus laevis,Ulmus pumila
+Betula pendula,28,0,0,0,3,1,0,0,4,4,0,0,1,0,0
+Fraxinus pennsylvanica,0,32,0,0,0,2,3,1,0,2,2,5,3,0,0
+Larix sibirica,4,0,31,0,1,1,1,0,0,1,1,0,2,0,2
+Picea pungens,0,0,0,43,1,0,0,0,0,0,0,0,0,1,0
+Pinus sylvestris,0,0,2,3,38,0,0,0,0,0,0,0,0,0,0
+Prunus padus,0,0,0,0,0,29,5,0,0,0,1,0,0,1,1
+Prunus virginiana,0,3,0,0,0,7,30,0,2,0,1,1,1,0,1
+Sorbus aucuparia,0,3,2,0,0,1,0,28,0,2,1,0,1,1,0
+Populus nigra,1,0,0,0,0,0,0,0,32,1,2,0,0,0,1
+Populus tremula,2,0,4,0,1,0,0,0,1,27,1,1,4,0,1
+Salix alba,1,0,0,0,0,0,0,0,1,0,36,1,0,0,0
+Acer negundo,1,2,0,0,1,0,1,0,0,0,1,35,2,0,3
+Acer platanoides,2,4,0,0,1,1,0,0,0,5,0,3,30,0,0
+Ulmus laevis,0,1,0,0,0,1,0,0,1,1,2,0,0,38,1
+Ulmus pumila,0,1,2,0,0,0,1,1,0,3,1,3,1,3,30

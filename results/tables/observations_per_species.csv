@@ -1,0 +1,16 @@
+species,test_id,test_leafoff,test_leafon,train,val
+Betula pendula,30,10,177,140,30
+Fraxinus pennsylvanica,30,0,0,140,30
+Larix sibirica,30,0,49,140,30
+Picea pungens,30,0,0,140,30
+Pinus sylvestris,30,24,300,140,30
+Prunus padus,30,0,54,140,30
+Prunus virginiana,30,0,0,140,30
+Sorbus aucuparia,30,0,31,140,30
+Populus nigra,30,0,120,140,30
+Populus tremula,30,0,110,140,30
+Salix alba,30,0,33,140,30
+Acer negundo,30,55,300,139,31
+Acer platanoides,30,0,22,139,31
+Ulmus laevis,30,0,16,140,30
+Ulmus pumila,30,14,300,140,30

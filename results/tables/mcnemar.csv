@@ -1,0 +1,10 @@
+set,pair,n_obs,b,c,chi2,p,significant_0.05,higher
+test_id,M2 vs M1,450,54,14,22.3676,0.0,True,M2
+test_id,M3 vs M1,450,28,14,4.0238,0.0449,True,M3
+test_id,M2 vs M3,450,43,17,10.4167,0.0012,True,M2
+test_leafon,M2 vs M1,1512,246,64,105.6806,0.0,True,M2
+test_leafon,M3 vs M1,1512,88,81,0.213,0.6444,False,M3
+test_leafon,M2 vs M3,1512,246,71,95.5079,0.0,True,M2
+test_leafoff,M2 vs M1,103,25,6,10.4516,0.0012,True,M2
+test_leafoff,M3 vs M1,103,14,1,,0.001,True,M3
+test_leafoff,M2 vs M3,103,19,13,0.7812,0.3768,False,M2

@@ -1,0 +1,10 @@
+model,gap,mean_over_seeds_pp,sd_over_seeds_pp,median_seed_obs_level_pp,ci_low,ci_high
+M1,region gap (ID minus leaf-on),30.75,0.87,34.71,30.43,38.88
+M1,"region gap, same months (ID Jun-Sep minus leaf-on)",41.91,2.25,45.03,37.17,51.48
+M1,season gap (leaf-on minus leaf-off),-13.31,4.4,-9.53,-19.59,0.25
+M2,region gap (ID minus leaf-on),29.45,2.22,31.57,27.61,35.51
+M2,"region gap, same months (ID Jun-Sep minus leaf-on)",35.75,1.78,34.26,27.35,40.65
+M2,season gap (leaf-on minus leaf-off),-15.22,2.23,-15.94,-24.56,-6.27
+M3,region gap (ID minus leaf-on),31.71,0.9,37.36,33.02,41.75
+M3,"region gap, same months (ID Jun-Sep minus leaf-on)",41.5,1.92,45.84,38.78,52.21
+M3,season gap (leaf-on minus leaf-off),-19.86,2.09,-21.69,-30.25,-12.37

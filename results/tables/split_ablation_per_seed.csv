@@ -1,0 +1,10 @@
+seed,set,top1_tree_split,top1_image_split,difference_pp
+0,test_id,70.74,73.56,2.82
+0,test_leafon,41.0,43.54,2.53
+0,test_leafoff,59.38,62.5,3.12
+1,test_id,73.07,72.66,-0.41
+1,test_leafon,41.85,42.45,0.6
+1,test_leafoff,52.34,54.69,2.34
+2,test_id,74.92,75.23,0.3
+2,test_leafon,43.64,44.88,1.24
+2,test_leafoff,54.69,53.91,-0.78
